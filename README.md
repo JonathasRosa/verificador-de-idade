@@ -1,11 +1,8 @@
-# verificador-de-idade
- Projeto verificador de idade
+# Verificador-de-idade
+Projeto verificador de idade.
 
-  Aplicativo que informa a hora do dia de acordo com a sua localização.
 ##
 ![](/img/tela-1.png)
-![](/img/tela-2.png)
-![](/img/tela-3.png)
 
 ## Ambiente de Desenvolvimento
 
@@ -24,7 +21,7 @@ estilização da base do projeto e JavaScript para criar a lógica e animações
 
 ## 📌 Versão
 
-Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/hora-do-dia).
+Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/verificador-de-idade).
 
 ## ✒️ Autor
 
@@ -41,7 +38,7 @@ Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
 
 Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
-[https://github.com/JonathasRosa/hora-do-dia/blob/main/LICENSE](https://github.com/JonathasRosa)
+[https://github.com/JonathasRosa/verificador-de-idade/blob/main/LICENSE](https://github.com/JonathasRosa)
 
 ## 🎁 Expressões de gratidão
 
